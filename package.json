@@ -1,0 +1,25 @@
+{
+  "name": "vue-lean",
+  "version": "1.0.0",
+  "description": "vue learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyqx123/vue-lean.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "alisa.yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyqx123/vue-lean/issues"
+  },
+  "homepage": "https://github.com/lyqx123/vue-lean#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
